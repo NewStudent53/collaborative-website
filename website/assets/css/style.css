@@ -1,3 +1,20 @@
 body{
     background: #BDBDBD;
 }
+
+/* #services-container {
+    width: 100%;
+    height: auto;
+} */
+
+.services-image{
+    /* justify-self: end; */
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+#is-pretty-cool-too {
+    color: grey;
+    padding-left: 5px;
+}
